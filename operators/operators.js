@@ -16,7 +16,7 @@ Binary operator. Requires two operands.
 
 / = The / operator returns the division of JavaScript operands.
 
-% = The % module operator returns the remainder, after division, of two operands.
+% = The % modulus operator returns the remainder, after division, of two operands.
 
 */
 

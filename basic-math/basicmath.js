@@ -42,3 +42,18 @@ const TAX_MULTIPLIER = 0.33;
 var totalTax = totalWeeklyEarnings * TAX_MULTIPLIER;
 var totalEarnings = totalWeeklyEarnings - totalTax;
 console.log("Total Posttax Weekly Earnings: $" + totalEarnings);
+
+let x = 5;
+let y = 2;
+
+console.log(x % y);
+
+// Saying 5 (x) "mod" 2 (y). Divide 5 by 2 and give me the remainder. 1
+
+let a = 50;
+let b = 2;
+
+console.log(a % b);
+
+// Saying 50 (a) "mod" 2 (b). Divide 50 by 2 and give me the remainder. 0
+
