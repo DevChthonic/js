@@ -1,0 +1,16 @@
+var firstName = "Dev";
+var lastName = "Chthonic";
+var email = "devchthonic@protonmail.com";
+var password = "p@55w0rd#";
+var age = 29;
+var sex = "male";
+var locale = "gotham";
+var heightInCm = 218.44;
+var skin = "fair";
+var favouriteColor = "green";
+var favouriteFood = "pizza";
+var favouriteDrink = "smirnoff";
+var favouriteMarvelHero = "iron man";
+var favouriteShoes = "jordan 4 retro black oreo";
+var favouriteBasketballTeam = "houston rockets";
+var favouriteBaseballTeam = "oakland athletics";
