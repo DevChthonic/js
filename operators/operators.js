@@ -5,12 +5,18 @@ console.log(typeof myAge);
 var myName = "Dev";
 console.log(typeof myName);
 
-// + = The + operator returns the sum of JavaScript variables.
+/*
 
-// * = The * operator returns the multiple of JavaScript variables.
-// Binary operator. Requires two variables.
++ = The + operator returns the sum of JavaScript operands.
 
-// - = The - operator returns the difference of JavaScript variables.
+* = The * operator returns the multiple of JavaScript operands.
+Binary operator. Requires two operands.
 
-// / = The / operator returns the division of JavaScript variables.
+- = The - operator returns the subtraction of JavaScript operands.
+
+/ = The / operator returns the division of JavaScript operands.
+
+% = The % module operator returns the remainder, after division, of two operands.
+
+*/
 
