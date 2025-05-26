@@ -112,3 +112,4 @@ console.log("Random number: " + Math.round(Math.random() * 100));
 // Inside round(), we're calling Math.random(), multiplying the result by 100,
 // and rounding to the nearest whole number between 0 and 100.
 
+
