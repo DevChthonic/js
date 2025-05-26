@@ -43,4 +43,14 @@ Binary operator. Requires two operands.
 
 // We use ! to not equal something. ! is not. It negates the value.
 
+/*
+
+AND Operator
+
+&& = and operator
+
+Both conditions (expressions) must be true for the && operator to work.
+
+*/
+
 
