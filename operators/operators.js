@@ -22,3 +22,25 @@ Binary operator. Requires two operands.
 
 */
 
+// Relational Operators
+
+/*
+
+< Less than
+> Greater than
+<= Less than or equal to
+>= Greater than or equal to
+== Equal to
+!= Not equal to
+
+*/
+
+// = = Assignment operator
+
+// We use = to assign a value or expression to a variable or declaration
+
+// ! = Negation operator
+
+// We use ! to not equal something. ! is not. It negates the value.
+
+
