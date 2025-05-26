@@ -44,9 +44,15 @@ If myAge was higher than 21, the interpreter will do nothing because we haven't 
 
 */
 
-var myAge = 18
+var myAge = 21
 console.log(myAge < 21);
 if(myAge < 21) {
     console.log("You are not eligible to drink.");
     console.log("You are going to be kicked out of the bar.");
+}
+else if (myAge == 21) {
+    console.log("You are eligible for a discount!");
+}
+else {
+    console.log("What can I get for you? We've got Heineken on tap!");
 }
