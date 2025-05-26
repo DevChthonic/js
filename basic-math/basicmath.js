@@ -57,3 +57,32 @@ console.log(a % b);
 
 // Saying 50 (a) "mod" 2 (b). Divide 50 by 2 and give me the remainder. 0
 
+// The Distance Formula //
+
+let x1 = 3;
+let y1 = 4; // 3, 4
+
+let x2 = 7;
+let y2 = 13; // 7, 13
+
+let deltaX = Math.pow(x2-x1, 2);
+console.log(deltaX);
+
+// We've got deltaX which is x2 - x1 squared
+
+let deltaY = Math.pow(y2-y1, 2);
+console.log(deltaY);
+
+// We've got deltaY which is y2 - y1 squared
+
+let sum = deltaX + deltaY;
+console.log(sum);
+
+// We've got (x2 - x1)squared + (y2 - y1)squared which is ouputted as sum
+
+let distance = Math.sqrt(sum);
+console.log("Distance: " + distance);
+
+// Now we're logging the distance with Distance: + distance variable. 
+
+// Distance: 9.848857801796104

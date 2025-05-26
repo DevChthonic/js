@@ -5,6 +5,8 @@ console.log(typeof myAge);
 var myName = "Dev";
 console.log(typeof myName);
 
+// Math Operators
+
 /*
 
 + = The + operator returns the sum of JavaScript operands.
