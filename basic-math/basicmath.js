@@ -86,3 +86,29 @@ console.log("Distance: " + distance);
 // Now we're logging the distance with Distance: + distance variable. 
 
 // Distance: 9.848857801796104
+
+// Random Number //
+
+console.log(Math.random());
+
+// We're logging the result of calling the random() method from the Math object.
+// .random is a method (function) of the Math object.
+// Math.random without parentheses references the function itself.
+// Math.random() with parentheses calls and executes it.
+
+console.log("Random number: " + Math.random());
+
+// We're logging "Random number: " plus the result of Math.random().
+// In this case, Math.random() **is being called** (note the parentheses), so we're executing it.
+
+console.log("Random number: " + Math.random() * 100);
+
+// We're logging "Random number: " plus the result of Math.random() multiplied by 100.
+// This gives us a float between 0 and ~99.999...
+
+console.log("Random number: " + Math.round(Math.random() * 100));
+
+// We're logging "Random number: " plus the result of Math.round(...).
+// Inside round(), we're calling Math.random(), multiplying the result by 100,
+// and rounding to the nearest whole number between 0 and 100.
+
