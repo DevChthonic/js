@@ -20,6 +20,8 @@
 
 ## Functions
 
+## Scope
+
 ## Objects
 
 ## Classes
@@ -30,3 +32,36 @@
 
 ## Algorithms
 
+## DOM Manipulation
+
+## Async/await
+
+## Promises
+
+## Fetch API
+
+### 
+
+## Modules
+
+### import
+
+### export
+
+## Error Handling
+
+### try
+
+### catch
+
+## Tooling
+
+### npm
+
+### bundlers
+
+## Testing
+
+### Unit Testing
+
+## JS Browser vs Node 
